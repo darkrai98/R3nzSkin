@@ -1,17 +1,8 @@
 ﻿<div align="center">
 
-   [![C++](https://img.shields.io/badge/Language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
-   [![LOL](https://img.shields.io/badge/Game-League%20of%20Legends-445fa5.svg?style=plastic)](https://na.leagueoflegends.com)
-   [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-   [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
-   [![License](https://img.shields.io/github/license/Darkrai98/R3nzSkin.svg?style=plastic)](LICENSE)
-   [![Issues](https://img.shields.io/github/issues/Darkrai98/R3nzSkin.svg?style=plastic)](https://github.com/Darkrai98/R3nzSkin/issues)
-   ![Windows](https://github.com/Darkrai98/R3nzSkin/workflows/Windows/badge.svg?branch=main&event=push)
-
    # **R3nzSkin**
 
    ## Announcement
-   I am currently continuing my military service, and as the place where I am serving is a border region, updates may be delayed or may not arrive.
 
    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif">
 
@@ -26,10 +17,6 @@
 - Supports all Popular languages ​​in the world.
 - In-game configuration with <a href="https://github.com/ocornut/imgui">ImGui</a>.
 - <a href="https://github.com/nlohmann/json">JSON</a> based configuration saving & loading
-
-# Building
-   1. Clone the source with `git clone --recursive https://github.com/Darkrai98/R3nzSkin.git`
-   2. Build in Visual Studio 2017/19 with configuration "Your Region - x64"
 
 # Usage
    1. Compile source or <a href="https://github.com/Darkrai98/R3nzSkin/releases/latest">download</a> compiled version.
