@@ -4,9 +4,9 @@
    [![LOL](https://img.shields.io/badge/Game-League%20of%20Legends-445fa5.svg?style=plastic)](https://na.leagueoflegends.com)
    [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
-   [![License](https://img.shields.io/github/license/R3nzTheCodeGOD/R3nzSkin.svg?style=plastic)](LICENSE)
-   [![Issues](https://img.shields.io/github/issues/R3nzTheCodeGOD/R3nzSkin.svg?style=plastic)](https://github.com/R3nzTheCodeGOD/R3nzSkin/issues)
-   ![Windows](https://github.com/R3nzTheCodeGOD/R3nzSkin/workflows/Windows/badge.svg?branch=main&event=push)
+   [![License](https://img.shields.io/github/license/Darkrai98/R3nzSkin.svg?style=plastic)](LICENSE)
+   [![Issues](https://img.shields.io/github/issues/Darkrai98/R3nzSkin.svg?style=plastic)](https://github.com/Darkrai98/R3nzSkin/issues)
+   ![Windows](https://github.com/Darkrai98/R3nzSkin/workflows/Windows/badge.svg?branch=main&event=push)
 
    # **R3nzSkin**
 
@@ -28,11 +28,11 @@
 - <a href="https://github.com/nlohmann/json">JSON</a> based configuration saving & loading
 
 # Building
-   1. Clone the source with `git clone --recursive https://github.com/R3nzTheCodeGOD/R3nzSkin.git`
+   1. Clone the source with `git clone --recursive https://github.com/Darkrai98/R3nzSkin.git`
    2. Build in Visual Studio 2017/19 with configuration "Your Region - x64"
 
 # Usage
-   1. Compile source or <a href="https://github.com/R3nzTheCodeGOD/R3nzSkin/releases/latest">download</a> compiled version.
+   1. Compile source or <a href="https://github.com/Darkrai98/R3nzSkin/releases/latest">download</a> compiled version.
    2. Use `R3nzSkin_Injector` or inject the resulting DLL into the game yourself.
       - *Administrator* privilege may be needed if failed to inject.
       - League client can crash if injected before going into arena.
