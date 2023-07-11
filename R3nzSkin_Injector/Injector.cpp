@@ -149,7 +149,7 @@ void Injector::autoUpdate()
 
 	try
 	{
-		std::string json = msclr::interop::marshal_as<std::string>(client->DownloadString(L"https://api.github.com/repos/R3nzTheCodeGOD/R3nzSkin/releases/latest"));
+		std::string json = msclr::interop::marshal_as<std::string>(client->DownloadString(L"https://api.github.com/repos/Darkrai98/R3nzSkin/releases/latest"));
 		std::regex tagnameRegex("\"tag_name\"\\s*:\\s*\"([^\"]+)");
 		std::regex urlRegex("\"browser_download_url\"\\s*:\\s*\"([^\"]+)");
 		std::regex dateRegex("\"created_at\"\\s*:\\s*\"([^\"]+)");
